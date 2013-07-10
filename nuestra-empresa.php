@@ -78,36 +78,29 @@
 					</div>
 				</div>	
 			</div>
-			<!-- <div class="contenido" id="tabs"> -->
 			<div id="tabs">
-				<!-- <div class="row-fluid"> -->
-					<!-- <div class="span4"> -->
-						<ul>
-							<li><a href="tabs-1">Nuestra Empresa</a></li>
-							<li><a href="tabs-2">Reseña Historíca</a></li>
-							<li><a href="tabs-3">Reseña Historíca JAC</a></li>
-						</ul>
-					<!-- </div> -->
-					<!-- <div class="span8 text-left"> -->
-						<div id="tabs-1">
-	                    	<h3>Nuestra Empresa</h3>
-	                    	<img src="photos/empresa.jpg" width="267" height="344" style="float:right; margin-left:15px;">
-							<p> ALMOTORES, Empresa 100% Vallecaucana que se dedica a la Comercialización de Vehículos Nuevos, la venta de repuestos, la prestación de servicio técnico mecánico y servicio de lámina y pintura. </p>
-	                        <h4>Misión</h4>
-	                        <p> Comercializar vehículos y servicios a nivel nacional, contando con funcionarios altamente calificados, ofreciendo a nuestros clientes la solución a sus necesidades de transporte personal y alternativas de Inversión en vehículos productivos. </p>
-	                        <h4>Visión</h4>
-	                        <p> Ser el Concesionario de Vehículos número UNO en el Valle del Cauca y en el País, ofreciendo a los clientes la satisfacción total de sus necesidades en cuanto a vehículos y servicios requeridos, y así lograr la expansión en nuevas áreas geográficas </p>
-						</div>
-						<div id="tabs-2">
-	                    	<h4>Reseña Historíca</h4>
-	                        <p> ALMOTORES Empresa 100 % Vallecaucana con amplia experiencia en el Sector Automotor introdujo la Marca JAC en el Valle del Cauca en el año 2006  y ha permanecido acompañando la Marca en su rápido crecimiento en Colombia.<br><br> ALMOTORES es representante exclusivo para Cali de la marca JAC, la marca es conocida por la venta de vehículos comerciales con más de 8000 unidades rodando por el país y segunda marca más vendida en el segmento de camiones livianos, lanzo en 2011 la línea de automóviles particulares.<br><br> Desde que JAC entró a Colombia, los conductores han identificado un producto que cumple con sus expectativas en cuanto a diseño, resistencia, desempeño, economía y respaldo.<br><br> Esto se ha logrado gracias a que las fábricas de JAC, tienen dentro de su línea de ensamble el concepto de fabricación de vehículo adaptado, el cual permite que los vehículos sean fabricados de acuerdo a las necesidades específicas de cada mercado como el Colombiano, donde elementos claves como el motor, la transmisión, los frenos de aire, silletería, entre otros son diseñados exclusivamente para Colombia. </p>
-						</div>
-						<div id="tabs-3">
-	                        <h4>Reseña Historíca JAC</h4>
-	                        <p> Fundada en 1964, como Hefei Jianghuai fábrica de automóviles, Posteriormente cambio su razón social a JIANGHUAI AUTOMOBILE COMPANY LTDA.<br><br> Tiene su propio centro de tecnología e investigación ubicado en la provincia de Anhui  - China, con un promedio de 1000 ingenieros en investigación y desarrollo.<br><br> JAC es uno de los 15 grupos más fuertes en China, constituida por 6 empresas cada una con su especialidad en el sector automotriz.<br><br> El grupo completo produce vehículos diseñados para terrenos difíciles como microbuses, camiones de tipo mediano y pesado, vehículos multipropósito, ejes de transmisión para camiones y buses, transmisiones y caja de cambios.<br><br> Su producción anual alcanza los 200.000 camiones y 40.000 vehículos de pasajeros.<br><br> Con la fortaleza tecnológica y económica que le ha dado el dominio del mercado de vehículos comerciales hace 4 años decidió incursionar en la producción de automóviles con el claro objetivo de convertirse en uno de los 3 conglomerados automotrices más grandes de china. Para ello no recurrió a lo que hicieron la mayoría de sus competidores copiando modelos de otras marcas sino por el contrario decidió recurrir a los mejores diseñadores del mundo para posicionar sus productos en el más alto nivel.<br><br> Las carrocerías fueron diseñadas por Pininfarina en Italia, sus motores por la compañía Avl e ilmor en Austria e Inglaterra respectivamente, el desarrollo y montaje de las plantas fue hecho por japoneses y gran parte de la maquinaria provino de Alemania y Japón.<br><br> Así en este corto periodo de tiempo ha logrado desarrollar una amplia línea de automóviles de última generación en los segmentos A, B, C, camperos y Vanes con más de 7 productos que han catapultado sus ventas en China y empezado a conquistar los mercados mundiales. </p>
-						</div>
-                    <!-- </div> -->
-				<!-- </div> -->
+				<ul>
+					<li><a href="tabs-1">Nuestra Empresa</a></li>
+					<li><a href="tabs-2">Reseña Historíca</a></li>
+					<li><a href="tabs-3">Reseña Historíca JAC</a></li>
+				</ul>
+				<div id="tabs-1">
+                	<h3>Nuestra Empresa</h3>
+                	<img src="photos/empresa.jpg" width="267" height="344" style="float:right; margin-left:15px;">
+					<p> ALMOTORES, Empresa 100% Vallecaucana que se dedica a la Comercialización de Vehículos Nuevos, la venta de repuestos, la prestación de servicio técnico mecánico y servicio de lámina y pintura. </p>
+                    <h4>Misión</h4>
+                    <p> Comercializar vehículos y servicios a nivel nacional, contando con funcionarios altamente calificados, ofreciendo a nuestros clientes la solución a sus necesidades de transporte personal y alternativas de Inversión en vehículos productivos. </p>
+                    <h4>Visión</h4>
+                    <p> Ser el Concesionario de Vehículos número UNO en el Valle del Cauca y en el País, ofreciendo a los clientes la satisfacción total de sus necesidades en cuanto a vehículos y servicios requeridos, y así lograr la expansión en nuevas áreas geográficas </p>
+				</div>
+				<div id="tabs-2">
+                	<h4>Reseña Historíca</h4>
+                    <p> ALMOTORES Empresa 100 % Vallecaucana con amplia experiencia en el Sector Automotor introdujo la Marca JAC en el Valle del Cauca en el año 2006  y ha permanecido acompañando la Marca en su rápido crecimiento en Colombia.<br><br> ALMOTORES es representante exclusivo para Cali de la marca JAC, la marca es conocida por la venta de vehículos comerciales con más de 8000 unidades rodando por el país y segunda marca más vendida en el segmento de camiones livianos, lanzo en 2011 la línea de automóviles particulares.<br><br> Desde que JAC entró a Colombia, los conductores han identificado un producto que cumple con sus expectativas en cuanto a diseño, resistencia, desempeño, economía y respaldo.<br><br> Esto se ha logrado gracias a que las fábricas de JAC, tienen dentro de su línea de ensamble el concepto de fabricación de vehículo adaptado, el cual permite que los vehículos sean fabricados de acuerdo a las necesidades específicas de cada mercado como el Colombiano, donde elementos claves como el motor, la transmisión, los frenos de aire, silletería, entre otros son diseñados exclusivamente para Colombia. </p>
+				</div>
+				<div id="tabs-3">
+                    <h4>Reseña Historíca JAC</h4>
+                    <p> Fundada en 1964, como Hefei Jianghuai fábrica de automóviles, Posteriormente cambio su razón social a JIANGHUAI AUTOMOBILE COMPANY LTDA.<br><br> Tiene su propio centro de tecnología e investigación ubicado en la provincia de Anhui  - China, con un promedio de 1000 ingenieros en investigación y desarrollo.<br><br> JAC es uno de los 15 grupos más fuertes en China, constituida por 6 empresas cada una con su especialidad en el sector automotriz.<br><br> El grupo completo produce vehículos diseñados para terrenos difíciles como microbuses, camiones de tipo mediano y pesado, vehículos multipropósito, ejes de transmisión para camiones y buses, transmisiones y caja de cambios.<br><br> Su producción anual alcanza los 200.000 camiones y 40.000 vehículos de pasajeros.<br><br> Con la fortaleza tecnológica y económica que le ha dado el dominio del mercado de vehículos comerciales hace 4 años decidió incursionar en la producción de automóviles con el claro objetivo de convertirse en uno de los 3 conglomerados automotrices más grandes de china. Para ello no recurrió a lo que hicieron la mayoría de sus competidores copiando modelos de otras marcas sino por el contrario decidió recurrir a los mejores diseñadores del mundo para posicionar sus productos en el más alto nivel.<br><br> Las carrocerías fueron diseñadas por Pininfarina en Italia, sus motores por la compañía Avl e ilmor en Austria e Inglaterra respectivamente, el desarrollo y montaje de las plantas fue hecho por japoneses y gran parte de la maquinaria provino de Alemania y Japón.<br><br> Así en este corto periodo de tiempo ha logrado desarrollar una amplia línea de automóviles de última generación en los segmentos A, B, C, camperos y Vanes con más de 7 productos que han catapultado sus ventas en China y empezado a conquistar los mercados mundiales. </p>
+				</div>
 			</div>	
 		</div>
 		<?php include_once('footer.php') ?>
