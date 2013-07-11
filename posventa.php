@@ -21,38 +21,7 @@
 		<div id="content" class="container internas">
 			<div class="internas contenido">	
 				<div id="info" class="row-fluid">
-					<div class="span8 text-left">
-						<a href="#" class="a_tooltip" title="Lorem">
-							<div class="globs"><i class="herramienta"></i></div>
-						</a>
-						<a href="#" class="a_tooltip" title="SOPORTE">
-							<div class="globs"><i class="soporte"></i></div>
-						</a>	
-						<a href="#" class="a_tooltip" title="Lorem">	
-							<div class="globs"><i class="fecha"></i></div>
-						</a>
-						<div class="infoA">
-							<a href="#">	
-								<i class="promociones"></i>Nuestras Promociones<br>
-								<span>Ofertas y Descuentos</span>
-							</a>	
-						</div>
-						<div class="infoB">
-							<a href="#">Blog Oficial de Jac Motors</a>
-						</div>
-					</div>
-					<div class="span4 text-right">
-						<div class="iconos">
-							<a href="http://www.youtube.com" target="_blank"><i class="youtube"></i></a>	
-							<a href="https://twitter.com" target="_blank"><i class="twitter"></i></a>
-							<a href="https://www.facebook.com/AlmotoresJAC" target="_blank"><i class="facebook"></i></a>
-							<a href="https://plus.google.com" target="_blank" class="last"><i class="google"></i></a>
-						</div>
-						<div class="text-left">
-							Haz click y síguenos en:<br>
-							<span>Comunidad Jac Motors</span> 
-						</div>
-					</div>
+					<?php include("navegacionsec.php") ?>
 				</div>
 				<div class="padding">	
 					<div class="row-fluid">
@@ -65,8 +34,23 @@
 			<div class="contenido">
 				<div class="row-fluid">
 					<div class="span4">
+						<h3>POSVENTA</h3>
+						<h5>Citas servicio de taller</h5>
+						<h2>PETICIONES <br>QUEJAS Y<br>RECLAMOS</h2>
+						<h5>Diligencia el formulario y pronto daremos respuesta a todas tus inquietudes</h5>
+						<h6>Los campos con * son obligatoriso</h6>
 						<form>
-							Formulario
+							<input type="text" name="Form[Nombre]" id="nombre" placeholder="*Nombre " style="width:270px; float:left;">
+                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="*Apellido" style="width:270px; float:left;">
+                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="*Correo Eléctronico" style="width:270px; float:left;">
+                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="*Número Celular" style="width:270px; float:left;">
+                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="Teléfono" style="width:270px; float:left;">
+                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="*Placa Vehículo" style="width:270px; float:left;">
+                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="*Modelo Vehículo" style="width:270px; float:left;">
+                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="Sede dónde fue atendido" style="width:270px; float:left;">
+                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="*Observaciones" style="width:270px; float:left;">
+                      		<textarea name="" id="" placeholder="*Observaciones" cols="30" rows="10" style="width:270px; float:left;"></textarea>
+							<input type="submit" value="Solicitar Cita" class="button">
 						</form>
 					</div>
 					<div class="span8 text-left">

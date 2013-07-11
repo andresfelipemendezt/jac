@@ -35,13 +35,25 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "nuestra-empresa.php",
+			"settings":
+			{
+				"buffer_size": 8056,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 293.0,
+		"height": 85.0,
 		"selected_items":
 		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
 			[
 				"fet",
 				"Fetch: File"
@@ -57,10 +69,6 @@
 			[
 				"vie",
 				"View In Browser"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
 			],
 			[
 				"packa",
@@ -91,7 +99,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 402.0
+		"width": 386.0
 	},
 	"console":
 	{
@@ -111,6 +119,7 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/jac/almotoresjac.sublime-project",
 		"/C/Users/Felipe/Desktop/flipPage/js/raphael.js",
 		"/C/Users/Felipe/Desktop/flipPage/js/jquey",
 		"/C/Users/Felipe/Desktop/flipPage/stylus.style.styl",
@@ -215,8 +224,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "nuestra-empresa.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3289,
+								3289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1040.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -262,6 +301,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"nu",
+				"nuestra-empresa.php"
+			],
+			[
+				"pro",
+				"almotoresjac.sublime-project"
+			],
 			[
 				"sty",
 				"stylus.style.styl"
@@ -335,7 +382,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 102.0,
 	"status_bar_visible": true,
 	"template_settings":
