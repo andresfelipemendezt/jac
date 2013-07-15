@@ -34,20 +34,20 @@
 				<div id="menu_top" class="navbar">
 					<div class="navbar-inner">
 						<ul class="nav">
-							<li class="active">
+							<li class="active" id="inicio">
 								<a href="index.php">INICIO</a>
 							</li>
 							<li class="divider-vertical"></li>
-							<li>
+							<li id="nuetraempresa">
 								<a href="nuestra-empresa.php">NUESTRA EMPRESA</a>
 							</li>
 							<li class="divider-vertical"></li>
-							<li>
+							<li id="sedes">
 								<a href="sedes.php">SEDES</a>
 							</li>
 							<li class="divider-vertical"></li>
-							<li class="dropdown">
-								<a href="#">LÍNEAS DE VEHÍCULOS</a>
+							<li id="vehiculos" class="dropdown">
+								<a href="#" cla>LÍNEAS DE VEHÍCULOS</a>
 								<ul class="dropdown-menu">
 									<li>
 										<div class="row-fluid">

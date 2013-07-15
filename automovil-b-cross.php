@@ -71,17 +71,17 @@
 					<div class="info_auto_part">
 						<h4><a href="#">Motor y Transmisión <i></i></a></h4>
 						<div class="info_auto_content">
-                       <b> Modelo</b> 4G93D Licenciado por MITSUBISHI<br>
-<b>Tipo</b> 1.9L DOHC 16V<br>
-<b>Potencia Max</b> 141 HP @ 6500 rpm<br>
-<b>Torque Max</b> 17Kg-m @ 5000 rpm<br>
-<b>Cilindrada</b> 1.834 cc<br>
-<b>Capacidad tanque de gasolina </b>14.5gl<br>
-							<b>Suspensión delantera </b>MCPherson<br>
-<b>Dirección tipo hidráulica</b> asistida<br>
-<b>Suspensión trasera</b> Doble brazo, McPherson<br>
+						<b> Modelo</b> 4G93D Licenciado por MITSUBISHI<br>
+						<b>Tipo</b> 1.8L DOHC 16V<br>
+						<b>Potencia Max</b> 141 HP @ 6500 rpm<br>
+						<b>Torque Max</b> 17Kg-m @ 5000 rpm<br>
+						<b>Cilindrada</b> 1.834 cc<br>
+						<b>Capacidad tanque de gasolina </b>14.5gl<br>
+						<b>Suspensión delantera </b>MCPherson<br>
+						<b>Dirección</b> tipo hidráulica asistida<br>
+						<b>Suspensión trasera</b> Doble brazo, McPherson<br>
 
-<b>Transmisipon tipo manual</b> 5 velocidades adelante Ref. F5M41 licendiado por MITSUBISHI
+						<b>Transmisión</b>  tipo manual 5 velocidades adelante Ref. F5M41 licendiado por MITSUBISHI
 
 						</div>
 					</div>
@@ -97,10 +97,10 @@
 						<h4><a href="#">Dimensiones <i></i></a></h4>
 						<div class="info_auto_content">
 							<b>Largo</b> 4.550mm<br>
-<b>Ancho</b> 1.775mm<br>
-<b>Alto</b> 1.660mm<br>
-<b>Peso del vehículo</b> 1.825 kg<br>
-<b>Capacidad de pasajeros</b> 7
+							<b>Ancho</b> 1.775mm<br>
+							<b>Alto</b> 1.660mm<br>
+							<b>Peso del vehículo</b> 1.825 kg<br>
+							<b>Capacidad de pasajeros</b> 7
 						</div>
 					</div>
 					<div class="info_auto_part">
@@ -164,5 +164,11 @@ Kit body color<br>
 		<script type="text/javascript" src="js/jquery.carouFredSel-6.2.1.js"></script>
 		<script src="js/auto_scripts.js"></script>
 		<script src="js/menu_top.js"></script>
+		<script>
+			$(document).ready(function () {
+				$("ul.nav li").removeClass("active");
+				$("ul.nav li#vehiculos").addClass("active");
+			})
+		</script>
 	</body>
 </html>

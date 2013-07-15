@@ -23,6 +23,18 @@
 					<a href="photos/veloce-hatchback/automovil-veloce-hatchback-3.jpg">
 						<img src="photos/veloce-hatchback/automovil-veloce-hatchback-3.jpg" data-big="photos/veloce-hatchback/automovil-veloce-hatchback-3.jpg" data-title="u" data-description="u" />
 					</a>
+					<a href="photos/veloce-hatchback/automovil-veloce-hatchback-4.jpg">
+						<img src="photos/veloce-hatchback/automovil-veloce-hatchback-4.jpg" data-big="photos/veloce-hatchback/automovil-veloce-hatchback-3.jpg" data-title="u" data-description="u" />
+					</a>
+					<a href="photos/veloce-hatchback/automovil-veloce-hatchback-5.jpg">
+						<img src="photos/veloce-hatchback/automovil-veloce-hatchback-5.jpg" data-big="photos/veloce-hatchback/automovil-veloce-hatchback-3.jpg" data-title="u" data-description="u" />
+					</a>
+					<a href="photos/veloce-hatchback/automovil-veloce-hatchback-6.jpg">
+						<img src="photos/veloce-hatchback/automovil-veloce-hatchback-6.jpg" data-big="photos/veloce-hatchback/automovil-veloce-hatchback-3.jpg" data-title="u" data-description="u" />
+					</a>
+					<a href="photos/veloce-hatchback/automovil-veloce-hatchback-7.jpg">
+						<img src="photos/veloce-hatchback/automovil-veloce-hatchback-7.jpg" data-big="photos/veloce-hatchback/automovil-veloce-hatchback-3.jpg" data-title="u" data-description="u" />
+					</a>
 					
 				</div>	
 			</div>
@@ -147,5 +159,11 @@
 		<script type="text/javascript" src="js/jquery.carouFredSel-6.2.1.js"></script>
 		<script src="js/auto_scripts.js"></script>
 		<script src="js/menu_top.js"></script>
+		<script>
+			$(document).ready(function () {
+				$("ul.nav li").removeClass("active");
+				$("ul.nav li#vehiculos").addClass("active");
+			})
+		</script>
 	</body>
 </html>

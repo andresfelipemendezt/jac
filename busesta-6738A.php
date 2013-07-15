@@ -35,6 +35,12 @@
                      <a href="photos/buseta-6738-1/buseta-6738-1-puerta-jac-7.jpg">
 						<img src="photos/buseta-6738-1/buseta-6738-1-puerta-jac-7.jpg" data-big="photos/buseta-6738-1/buseta-6738-1-puerta-jac-7.jpg" data-title="u" data-description="u" />
 					</a>
+                     <a href="photos/buseta-6738-1/buseta-6738-1-puerta-jac-8.jpg">
+						<img src="photos/buseta-6738-1/buseta-6738-1-puerta-jac-8.jpg" data-big="photos/buseta-6738-1/buseta-6738-1-puerta-jac-7.jpg" data-title="u" data-description="u" />
+					</a>
+                     <a href="photos/buseta-6738-1/buseta-6738-1-puerta-jac-9.jpg">
+						<img src="photos/buseta-6738-1/buseta-6738-1-puerta-jac-9.jpg" data-big="photos/buseta-6738-1/buseta-6738-1-puerta-jac-7.jpg" data-title="u" data-description="u" />
+					</a>
 					
 				</div>	
 			</div>
@@ -184,5 +190,11 @@ Cumple normativa resolución 3172 y NTC 5206 para <br>operación nacional y espe
 		<script type="text/javascript" src="js/jquery.carouFredSel-6.2.1.js"></script>
 		<script src="js/auto_scripts.js"></script>
 		<script src="js/menu_top.js"></script>
+		<script>
+		$(document).ready(function () {
+			$("ul.nav li").removeClass("active");
+			$("ul.nav li#vehiculos").addClass("active");
+		})
+		</script>
 	</body>
 </html>

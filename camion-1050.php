@@ -14,8 +14,8 @@
 		<div id="banner_ppal" class="row-fluid">
 			<div class="span12">
 				<div id="slider" style="height:400px;">
-					<a href="photos/banner3.jpg">
-						<img src="photos/banner3.jpg" data-big="photos/banner3.jpg" data-title="u" data-description="u" />
+					<a href="photos/camion-1050/camion-1050.jpg">
+						<img src="photos/camion-1050/camion-1050.jpg" data-big="photos/camion-1050/camion-1050.jpg" data-title="u" data-description="u" />
 					</a>
 					<a href="photos/banner32.jpg">
 						<img src="photos/banner32.jpg" data-big="photos/banner32.jpg" data-title="u" data-description="u" />

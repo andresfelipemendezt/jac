@@ -26,6 +26,12 @@
                     <a href="photos/refine/automovil-refine-jac-4.jpg">
 						<img src="photos/refine/automovil-refine-jac-4.jpg" data-big="photos/refine/automovil-refine-jac-4.jpg" data-title="u" data-description="u" />
 					</a>
+                    <a href="photos/refine/automovil-refine-jac-5.jpg">
+						<img src="photos/refine/automovil-refine-jac-5.jpg" data-big="photos/refine/automovil-refine-jac-4.jpg" data-title="u" data-description="u" />
+					</a>
+                    <a href="photos/refine/automovil-refine-jac-6.jpg">
+						<img src="photos/refine/automovil-refine-jac-6.jpg" data-big="photos/refine/automovil-refine-jac-4.jpg" data-title="u" data-description="u" />
+					</a>
 					
 				</div>	
 			</div>
@@ -162,5 +168,11 @@ Sistema de suspensión trasera</b> Muelles
 		<script type="text/javascript" src="js/jquery.carouFredSel-6.2.1.js"></script>
 		<script src="js/auto_scripts.js"></script>
 		<script src="js/menu_top.js"></script>
+		<script>
+			$(document).ready(function () {
+				$("ul.nav li").removeClass("active");
+				$("ul.nav li#vehiculos").addClass("active");
+			})
+		</script>
 	</body>
 </html>

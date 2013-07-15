@@ -145,5 +145,11 @@
 		<script type="text/javascript" src="js/jquery.carouFredSel-6.2.1.js"></script>
 		<script src="js/auto_scripts.js"></script>
 		<script src="js/menu_top.js"></script>
+		<script>
+			$(document).ready(function () {
+			$("ul.nav li").removeClass("active");
+			$("ul.nav li#vehiculos").addClass("active");
+		})
+		</script>
 	</body>
 </html>
