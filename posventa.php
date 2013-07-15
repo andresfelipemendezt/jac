@@ -14,7 +14,7 @@
 		<div id="banner_ppal" class="container internas">	
 			<div class="row-fluid">
 				<div class="span12">
-					<img src="photos/banner2.jpg" alt="Banner Principal"/>
+					<img src="photos/posventa.jpg" alt="Banner Principal"/>
 				</div>
 			</div>
 		</div>	

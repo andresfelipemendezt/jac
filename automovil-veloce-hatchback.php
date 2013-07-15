@@ -67,7 +67,7 @@
 			        <b>Sistema de inyección</b> Electrónica miltipunto<br>
 			        <b>Tracción</b> Delantera<br>
 			        <b>Capacidad tanque de combustible</b> 11.8 gl<br>
-			        <b>Transmisión manual</b> 5 velocidades adelante y reversa<br>
+			        <b>Transmisión </b>manual 5 velocidades adelante y reversa<br>
 			        <b>Referencia</b> MF70B Licenciado por MITSUBISHI<br>
 			        <b>Sistema de suspensión delantera</b> McPherson independiente<br>
 			        <b>Sistema de suspensión trasera </b>Doble brazo independiente<br>

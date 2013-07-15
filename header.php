@@ -7,7 +7,9 @@
 	js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
 	fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk')
-$('.dropdown-toggle').dropdown()
+	
+	$('.dropdown-toggle').dropdown();
+	
 );
 </script>
 
@@ -32,7 +34,7 @@ $('.dropdown-toggle').dropdown()
 				<div id="menu_top" class="navbar">
 					<div class="navbar-inner">
 						<ul class="nav">
-							<li>
+							<li class="active">
 								<a href="index.php">INICIO</a>
 							</li>
 							<li class="divider-vertical"></li>

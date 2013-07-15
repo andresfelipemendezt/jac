@@ -11,10 +11,18 @@
     -moz-user-select: none;
     -webkit-user-select: none;
     -o-user-select: none;
-	width: 100% !important;
-	height: auto !important;
-	top:0 !important;
+    /* Set rules to fill background */
+    min-height: 100% !important;
+    min-width: 1366px !important;
+    /* Set up proportionate scaling */
+    width: 100% !important;
+    height: auto !important;
+    /* Set up positioning */
+    /*position: fixed !important;*/
+    top: 0 !important;
+    left: 0 !important;
 }
+
 .galleria-stage {
     position: absolute;
     top: 0;

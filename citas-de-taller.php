@@ -13,7 +13,7 @@
 		<div id="banner_ppal" class="container internas">	
 			<div class="row-fluid">
 				<div class="span12">
-					<img src="photos/banner2.jpg" alt="Banner Principal"/>
+					<img src="photos/citasdetaller.jpg" alt="Banner Principal"/>
 				</div>
 			</div>
 		</div>	
@@ -32,23 +32,12 @@
 			</div>
 			<div class="contenido">
 				<div class="row-fluid">
-					<div class="span4">
-						<h3>Contáctenos</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, magni, adipisci ullam animi doloremque fugiat.</p>
-						<form action="" method="post" id="Form_Contacto" enctype="multipart/form-data" style="margin-bottom:0; overflow:hidden;">
-                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="Nombre " style="width:270px; float:left;">
-                            <input type="text" name="Form[Nombre]" id="nombre" placeholder="Correo Eléctronico" style="width:270px; float:left;">
-                       		<textarea name="" id="" placeholder="mensaje" cols="30" rows="10" style="width:270px; float:left;"></textarea>
-                        	<input type="submit" value="Solicitar Cita" class="button">
-        				</form>
-					</div>
+					<img src="images/fotolia_49198448.jpg" class="span4">
+					
 					<div class="span8 text-left">
 						  
                         <h3>Citas Taller</h3>
-                        <p>
-                        Pensando en usted y su comodidad almotores cuenta con el servicio de agendamiento de citas de taller para que realice las revisiones preventivas y correctivas a su vehículo para mayor información comuníquese con nuestra central al número 4859191 de lunes a viernes horario de atención 7:30 am a 5:30 pm y sábado de 9:00 am. A 1:00 pm.
-                        </p>
-                        
+                        <p> Pensando en usted y su comodidad almotores cuenta con el servicio de agendamiento de citas de taller para que realice las revisiones preventivas y correctivas a su vehículo para mayor información comuníquese con nuestra central al número 4859191 de lunes a viernes horario de atención 7:30 am a 5:30 pm y sábado de 9:00 am. A 1:00 pm. </p>
                         <div style="border:1px solid #eaeaea; border-radius:4px; padding:20px 10px;">
                              <form action="" method="post" id="Form_Contacto" enctype="multipart/form-data" style="margin-bottom:0; overflow:hidden;">
                              <input type="text" name="Form[Nombre]" id="nombre" placeholder="Nombre " style="width:270px; float:left;">

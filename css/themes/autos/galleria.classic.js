@@ -14,10 +14,11 @@
 Galleria.addTheme({
     name: 'classic',
     author: 'Galleria',
-    css: 'galleria.classic.css',
+   css: 'galleria.classic.css',
     defaults: {
         transition: 'slide',
         thumbCrop:  'height',
+
 
         // set this to false if you want to show the caption all the time:
         _toggleInfo: true
@@ -43,7 +44,7 @@ Galleria.addTheme({
         // some stuff for non-touch browsers
         if (! touch ) {
             this.addIdleState( this.get('image-nav-left'), { left:-50 });
-            this.addIdleState( this.get('image-nav-right'), { right:-50 });
+           this.addIdleState( this.get('image-nav-right'), { right:-50 });
             this.addIdleState( this.get('counter'), { opacity:0 });
         }
 

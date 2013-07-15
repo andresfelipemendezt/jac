@@ -14,7 +14,7 @@
 		<div id="banner_ppal" class="container internas">	
 			<div class="row-fluid">
 				<div class="span12">
-					<img src="photos/banner2.jpg" alt="Banner Principal"/>
+					<img src="photos/contacto.jpg" alt="Banner Principal"/>
 				</div>
 			</div>
 		</div>	
@@ -34,41 +34,22 @@
 			<div class="contenido">
 				<div class="row-fluid">
 					<div class="span4">
-						<form>
-							Formulario
-						</form>
+						<iframe width="290" height="278" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=Almotores+Norte,+Brisas+de+Los+Alamos,+Cali+-+Valle+del+Cauca,+Colombie&amp;aq=1&amp;oq=almotores+&amp;sll=3.457118,-76.51987&amp;sspn=0.147189,0.149345&amp;ie=UTF8&amp;hq=Almotores+Norte,&amp;hnear=Brisas+de+Los+Alamos,+Cali,+Valle+del+Cauca,+Colombie&amp;t=m&amp;ll=3.489262,-76.50424&amp;spn=0.023817,0.024805&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
 					</div>
 					<div class="span8 text-left">
-                    <h3>Formulario de Contacto</h3>
-						<p>
-							Diligencia de forma correcta la siguiente información y en breve daremos respuesta a tu solicitud.
-                            <div style="border:1px solid #eaeaea; border-radius:4px; padding:20px 10px;">
-                             <form action="" method="post" id="Form_Contacto" enctype="multipart/form-data" style="margin-bottom:0; overflow:hidden;">
-                             <input type="text" name="Form[Nombre]" id="nombre" placeholder="Nombre " style="width:270px; float:left;">
-                             <input type="email" name="Form[Correo]" id="correo" placeholder="Apellido" style="width:270px; float:right;">
-                             <input type="text" name="Form[Nombre]" id="nombre" placeholder="Correo Eléctronico" style="width:270px; float:left;">
-                       <input type="email" name="Form[Correo]" id="correo" placeholder="Celular" style="width:270px; float:right;">
-                        
-                        <input type="tel" name="Form[Tel]" id="telefono" placeholder="Teléfono" style="width:270px; float:left;">
-                      
-                        <input type="text" name="Form[Direccion]" id="ciudad" placeholder="Direccion" style="width:270px; float:right;">
-                                             
-                        <input type="text" name="Form[Direccion]" id="ciudad" placeholder="Vehículo" style="width:270px; float:right;">
-         
-                        <input type="submit" value="Solicitar Cita" class="button">
-        </form>
-        </div>
-						</p>
-                        <h3>Sede Norte</h3>
-						<p>
-							Cali. Av. Vasquez cobo #34N 54 Barrió san Vicente Tel: (2) 6881212 Call center: (2) 4859191<br>
-				        <div style="float:left;"><a href="images/almotores-sede-jac-2.jpg" rel="example_group"><img src="images/almotores-sede-jac-2-little.jpg" width="290" height="200" border="0"></a><br> 
-			          Haz clic para ampliar</div>
-                      <div style="float:right;"><a href="images/almotores-sede-jac.jpg" rel="example_group"><img src="images/almotores-sede-jac-little.jpg" width="290" height="200" border="0" ></a><br> 
-                        Haz clic para ampliar</div>
-                      <div class="clearfix"></div>
-                       <br> <a class="various iframe" href="http://maps.google.com/?output=embed&amp;f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=London+Eye,+County+Hall,+Westminster+Bridge+Road,+London,+United+Kingdom&amp;hl=lv&amp;ll=51.504155,-0.117749&amp;spn=0.00571,0.016512&amp;sll=56.879635,24.603189&amp;sspn=10.280244,33.815918&amp;vpsrc=6&amp;hq=London+Eye&amp;radius=15000&amp;t=h&amp;z=17"><img src="images/b-google-maps.png" width="293" height="33" border="0"></a>
-</p>
+						<h3>Formulario de Contacto</h3>
+						<p> Diligencia de forma correcta la siguiente información y en breve daremos respuesta a tu solicitud.</p>
+                        <div style="border:1px solid #eaeaea; border-radius:4px; padding:20px 10px;">
+                            <form action="" method="post" id="Form_Contacto" enctype="multipart/form-data" style="margin-bottom:0; overflow:hidden;">
+                            	<input type="text" name="Form[Nombre]" id="nombre" placeholder="Nombre " style="width:270px; float:left;">
+                            	<input type="email" name="Form[Correo]" id="correo" placeholder="Apellido" style="width:270px; float:right;">
+                            	<input type="text" name="Form[Nombre]" id="nombre" placeholder="Correo Eléctronico" style="width:270px; float:left;">
+                       			<input type="email" name="Form[Correo]" id="correo" placeholder="Celular" style="width:270px; float:right;">
+                        		<input type="text" name="Form[Direccion]" id="ciudad" placeholder="Direccion" style="width:270px; float:left;">
+                        		<input type="text" name="Form[Direccion]" id="ciudad" placeholder="Vehículo" style="width:270px; float:right;">
+                        		<input type="submit" value="Solicitar Cita" class="button">
+        					</form>
+        				</div>
 					</div>
 				</div>
 			</div>	

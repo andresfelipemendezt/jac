@@ -79,11 +79,11 @@
 						<h4><a href="#">Motor y Transmisión <i></i></a></h4>
 						<div class="info_auto_content">
 							<b>Modelo</b> DAK10A<br>
-<b>Cilindrada</b> 99cc<br>
-<b>Potencia Max</b> 67HP @ 6000RPM<br>
-<b>Torque Max</b> 8.6 Kg-m @ 4500rpm<br>
-<b>Suspensión delantera</b> MacPherson con resorte<br>
-<b>Suspensión trasera</b>   Amortiguadores de aire
+							<b>Cilindrada</b> 999cc<br>
+							<b>Potencia Max</b> 67HP @ 6000RPM<br>
+							<b>Torque Max</b> 8.6 Kg-m @ 4500rpm<br>
+							<b>Suspensión delantera</b> suspensión independiente MacPherson con resorte<br>
+							<b>Suspensión trasera</b>   Amortiguadores de aire
 
 
 
@@ -101,16 +101,16 @@
 						<h4><a href="#">Dimensiones <i></i></a></h4>
 						<div class="info_auto_content">
 							<b>Largo</b> 3535mm<br>
-<b>Ancho</b> 1640mm<br>
-<b>Alto</b>  1475mm 
+							<b>Ancho</b> 1640mm<br>
+							<b>Alto</b>  1475mm 
 						</div>
 					</div>
 					<div class="info_auto_part">
 						<h4><a href="#">Equipamento de Seguridad <i></i></a></h4>
 						<div class="info_auto_content">
 							Sistema de frenos por vacío hidráulico, circuito doble<br>
-<b>Freno Delantero</b> Disco<br>
-<b>Freno Trasero</b> Tambor
+						<b>Freno Delantero</b> Disco<br>
+						<b>Freno Trasero</b> Tambor
 						</div>
 					</div>
 				</div>

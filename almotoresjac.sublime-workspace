@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"menu",
+				"menuArriba"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
 				"po",
 				"posY"
 			],
@@ -36,10 +48,34 @@
 	"buffers":
 	[
 		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 14532,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "nuestra-empresa.php",
 			"settings":
 			{
-				"buffer_size": 8056,
+				"buffer_size": 6657,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 8215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 3509,
 				"line_ending": "Windows"
 			}
 		}
@@ -47,7 +83,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 85.0,
+		"height": 35.0,
 		"selected_items":
 		[
 			[
@@ -119,14 +155,34 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/jac/posventa.php",
+		"/C/xampp/htdocs/jac/sedes.php",
+		"/C/xampp/htdocs/jac/citas-de-test-drive.php",
+		"/C/xampp/htdocs/jac/citas-de-taller.php",
+		"/C/xampp/htdocs/jac/cliente-premium.php",
+		"/C/xampp/htdocs/jac/contacto.php",
+		"/C/xampp/htdocs/jac/automovil-veloce-hatchback.php",
+		"/C/xampp/htdocs/jac/automovil-smile.php",
+		"/C/xampp/htdocs/jac/automovil-veloce-sedan.php",
+		"/C/xampp/htdocs/jac/css/themes/classic/galleria.classic.js",
+		"/C/xampp/htdocs/jac/css/themes/classic/galleria.classic.css",
+		"/C/xampp/htdocs/jac/css/themes/autos/galleria.classic.css",
+		"/C/xampp/htdocs/jac/js/galleria-1.2.9.js",
+		"/C/xampp/htdocs/jac/header.php",
+		"/C/xampp/htdocs/jac/footer.php",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/jac/nuestra-empresa.php",
+		"/C/xampp/htdocs/jac/js/menu_top.js",
+		"/C/xampp/htdocs/jac/navegacionsec.php",
+		"/C/xampp/htdocs/jac/index.php",
+		"/C/xampp/htdocs/jac/automovil-refine.php",
 		"/C/xampp/htdocs/jac/almotoresjac.sublime-project",
 		"/C/Users/Felipe/Desktop/flipPage/js/raphael.js",
 		"/C/Users/Felipe/Desktop/flipPage/js/jquey",
 		"/C/Users/Felipe/Desktop/flipPage/stylus.style.styl",
 		"/C/Users/Felipe/Desktop/flipPage/css/style.css",
-		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Felipe/Desktop/flip page/index.html",
-		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Felipe/Desktop/flip page/stylus.style.styl",
 		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Installed Packages/README.md",
 		"/C/Users/Felipe/Desktop/flip page/css/style.css",
@@ -162,6 +218,45 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"this",
+			"\"",
+			"img",
+			"div",
+			"img ",
+			"img",
+			";",
+			";*/\n",
+			";",
+			"100%",
+			"5",
+			"h3",
+			"5",
+			"10",
+			"h2",
+			"h1",
+			"  ",
+			"h1",
+			"1",
+			"<b",
+			"settings",
+			"<li>",
+			"</li>",
+			"messages",
+			"  ",
+			"false",
+			"tabindex=\"-1\"",
+			"\n					",
+			"<div id=",
+			">\n",
+			"6",
+			"4",
+			"2",
+			"1",
+			"right",
+			"left",
+			"4",
+			"absolute",
+			"padding",
 			"X",
 			"e.",
 			"Y",
@@ -224,34 +319,117 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "nuestra-empresa.php",
+					"file": "css/styles.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8056,
+						"buffer_size": 14532,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3289,
-								3289
+								14511,
+								14511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9584.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "nuestra-empresa.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1233,
+								1233
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1040.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3137,
+								3137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -261,7 +439,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 22.0
+		"height": 36.0
 	},
 	"input":
 	{
@@ -289,7 +467,7 @@
 			1.0
 		]
 	},
-	"menu_visible": true,
+	"menu_visible": false,
 	"project": "almotoresjac.sublime-project",
 	"replace":
 	{
@@ -302,8 +480,120 @@
 		"selected_items":
 		[
 			[
+				"fo",
+				"footer.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"co",
+				"contacto.php"
+			],
+			[
+				"test",
+				"citas-de-test-drive.php"
+			],
+			[
+				"prem",
+				"cliente-premium.php"
+			],
+			[
+				"ci",
+				"citas-de-taller.php"
+			],
+			[
+				"po",
+				"posventa.php"
+			],
+			[
+				"se",
+				"sedes.php"
+			],
+			[
 				"nu",
 				"nuestra-empresa.php"
+			],
+			[
+				"tal",
+				"citas-de-taller.php"
+			],
+			[
+				"hatc",
+				"automovil-veloce-hatchback.php"
+			],
+			[
+				"velo",
+				"automovil-veloce-sedan.php"
+			],
+			[
+				"h",
+				"header.php"
+			],
+			[
+				"sm",
+				"automovil-smile.php"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"galeriajs",
+				"js\\galleria-1.2.9.js"
+			],
+			[
+				"au",
+				"automovil-smile.php"
+			],
+			[
+				"pos",
+				"posventa.php"
+			],
+			[
+				"js",
+				"js\\menu_top.js"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"cit",
+				"citas-de-test-drive.php"
+			],
+			[
+				"con",
+				"contacto.php"
+			],
+			[
+				"citaste",
+				"citas-de-test-drive.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"na",
+				"navegacionsec.php"
+			],
+			[
+				"auto",
+				"automovil-refine.php"
+			],
+			[
+				"a",
+				"almotoresjac.sublime-project"
+			],
+			[
+				"n",
+				"nuestra-empresa.php"
+			],
+			[
+				"cs",
+				"css\\styles.css"
 			],
 			[
 				"pro",
@@ -312,14 +602,6 @@
 			[
 				"sty",
 				"stylus.style.styl"
-			],
-			[
-				"cs",
-				"css\\style.css"
-			],
-			[
-				"in",
-				"index.html"
 			],
 			[
 				"q",
@@ -338,20 +620,8 @@
 				"servicios.php"
 			],
 			[
-				"fo",
-				"footer.php"
-			],
-			[
-				"he",
-				"header.php"
-			],
-			[
 				"jq",
 				"css\\jquery.bxslider.css"
-			],
-			[
-				"js",
-				"js\\script.js"
 			],
 			[
 				"styl",

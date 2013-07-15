@@ -109,3 +109,12 @@
 		</div>
 	</div>
 </footer>
+<script>
+	$(document).ready(function () {
+
+		var menuArriba = $("#menu_top ul.nav li a").click(function(){
+			$("#menu_top ul.nav li").addClass("active");
+		});
+		console.log(menuArriba);
+	});
+</script>
