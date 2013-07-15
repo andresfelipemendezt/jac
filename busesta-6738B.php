@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+}<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8" />
@@ -159,5 +159,11 @@ Cumple normativa resolución 3172  y NTC 5206 para<br> sistemas de transporte i
 		<script type="text/javascript" src="js/jquery.carouFredSel-6.2.1.js"></script>
 		<script src="js/auto_scripts.js"></script>
 		<script src="js/menu_top.js"></script>
+		<script>
+			$(document).ready(function () {
+				$("ul.nav li").removeClass("active");
+				$("ul.nav li#vehiculos").addClass("active");
+			})
+		</script>
 	</body>
 </html>

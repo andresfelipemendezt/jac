@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"min",
+				"min-width"
+			],
+			[
 				"menu",
 				"menuArriba"
 			],
@@ -48,10 +52,18 @@
 	"buffers":
 	[
 		{
-			"file": "css/styles.css",
+			"file": "camion-1131.php",
 			"settings":
 			{
-				"buffer_size": 14532,
+				"buffer_size": 5827,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sedes.php",
+			"settings":
+			{
+				"buffer_size": 4971,
 				"line_ending": "Windows"
 			}
 		},
@@ -59,7 +71,7 @@
 			"file": "nuestra-empresa.php",
 			"settings":
 			{
-				"buffer_size": 6657,
+				"buffer_size": 6816,
 				"line_ending": "Windows"
 			}
 		},
@@ -67,15 +79,7 @@
 			"file": "header.php",
 			"settings":
 			{
-				"buffer_size": 8215,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "footer.php",
-			"settings":
-			{
-				"buffer_size": 3509,
+				"buffer_size": 8338,
 				"line_ending": "Windows"
 			}
 		}
@@ -155,28 +159,45 @@
 	},
 	"file_history":
 	[
-		"/C/xampp/htdocs/jac/posventa.php",
-		"/C/xampp/htdocs/jac/sedes.php",
-		"/C/xampp/htdocs/jac/citas-de-test-drive.php",
-		"/C/xampp/htdocs/jac/citas-de-taller.php",
-		"/C/xampp/htdocs/jac/cliente-premium.php",
 		"/C/xampp/htdocs/jac/contacto.php",
+		"/C/xampp/htdocs/jac/citas-de-test-drive.php",
+		"/C/xampp/htdocs/jac/cliente-premium.php",
+		"/C/xampp/htdocs/jac/citas-de-taller.php",
+		"/C/xampp/htdocs/jac/posventa.php",
+		"/C/xampp/htdocs/jac/camion-1045.php",
+		"/C/xampp/htdocs/jac/camion-1063B.php",
+		"/C/xampp/htdocs/jac/camion-1063A.php",
+		"/C/xampp/htdocs/jac/camion-1050.php",
+		"/C/xampp/htdocs/jac/busesta-6738A.php",
+		"/C/xampp/htdocs/jac/camion-1023.php",
+		"/C/xampp/htdocs/jac/bus-12-metros.php",
+		"/C/xampp/htdocs/jac/bus-6108.php",
+		"/C/xampp/htdocs/jac/busesta-6738B.php",
+		"/C/xampp/htdocs/jac/mini-mula.php",
+		"/C/xampp/htdocs/jac/taxi-star-jac.php",
+		"/C/xampp/htdocs/jac/taxi-street.php",
+		"/C/xampp/htdocs/jac/automovil-brilliance-v5.php",
+		"/C/xampp/htdocs/jac/automovil-b-class.php",
+		"/C/xampp/htdocs/jac/automovil-refine.php",
+		"/C/xampp/htdocs/jac/automovil-b-cross.php",
+		"/C/xampp/htdocs/jac/automovil-veloce-sedan.php",
 		"/C/xampp/htdocs/jac/automovil-veloce-hatchback.php",
 		"/C/xampp/htdocs/jac/automovil-smile.php",
-		"/C/xampp/htdocs/jac/automovil-veloce-sedan.php",
-		"/C/xampp/htdocs/jac/css/themes/classic/galleria.classic.js",
-		"/C/xampp/htdocs/jac/css/themes/classic/galleria.classic.css",
+		"/C/xampp/htdocs/jac/index.php",
+		"/C/xampp/htdocs/jac/js/menu_top.js",
+		"/C/xampp/htdocs/jac/css/styles.css",
+		"/C/xampp/htdocs/jac/css/themes/autos/galleria.classic.js",
 		"/C/xampp/htdocs/jac/css/themes/autos/galleria.classic.css",
-		"/C/xampp/htdocs/jac/js/galleria-1.2.9.js",
-		"/C/xampp/htdocs/jac/header.php",
 		"/C/xampp/htdocs/jac/footer.php",
+		"/C/xampp/htdocs/jac/header.php",
+		"/C/xampp/htdocs/jac/nuestra-empresa.php",
+		"/C/xampp/htdocs/jac/css/themes/classic/galleria.classic.js",
+		"/C/xampp/htdocs/jac/sedes.php",
+		"/C/xampp/htdocs/jac/css/themes/classic/galleria.classic.css",
+		"/C/xampp/htdocs/jac/js/galleria-1.2.9.js",
 		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/xampp/htdocs/jac/nuestra-empresa.php",
-		"/C/xampp/htdocs/jac/js/menu_top.js",
 		"/C/xampp/htdocs/jac/navegacionsec.php",
-		"/C/xampp/htdocs/jac/index.php",
-		"/C/xampp/htdocs/jac/automovil-refine.php",
 		"/C/xampp/htdocs/jac/almotoresjac.sublime-project",
 		"/C/Users/Felipe/Desktop/flipPage/js/raphael.js",
 		"/C/Users/Felipe/Desktop/flipPage/js/jquey",
@@ -218,6 +239,26 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"servicios",
+			"citasdetaller",
+			"to/",
+			"photo",
+			"/banner3",
+			"photos/",
+			"banner3",
+			"c-7",
+			"7",
+			"6",
+			"5",
+			"4",
+			"6",
+			"5",
+			"4",
+			"a",
+			"galleria",
+			"thumb",
+			"% ",
+			"auto",
 			"this",
 			"\"",
 			"img",
@@ -319,52 +360,52 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "css/styles.css",
+					"file": "camion-1131.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14532,
+						"buffer_size": 5827,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14511,
-								14511
+								5810,
+								5658
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 9584.0,
+						"translation.y": 1404.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "nuestra-empresa.php",
+					"file": "sedes.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6657,
+						"buffer_size": 4971,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1233,
-								1233
+								4770,
+								4770
 							]
 						],
 						"settings":
@@ -373,26 +414,26 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1168.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "header.php",
+					"file": "nuestra-empresa.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8215,
+						"buffer_size": 6816,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								349,
-								349
+								6643,
+								6799
 							]
 						],
 						"settings":
@@ -401,26 +442,26 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 902.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "footer.php",
+					"file": "header.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3509,
+						"buffer_size": 8338,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3137,
-								3137
+								7979,
+								7979
 							]
 						],
 						"settings":
@@ -429,7 +470,41 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 858.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1298,
+								1298
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -454,6 +529,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -464,6 +545,7 @@
 		"rows":
 		[
 			0.0,
+			0.5,
 			1.0
 		]
 	},
@@ -480,16 +562,156 @@
 		"selected_items":
 		[
 			[
-				"fo",
-				"footer.php"
+				"co",
+				"contacto.php"
+			],
+			[
+				"cli",
+				"cliente-premium.php"
+			],
+			[
+				"te",
+				"citas-de-test-drive.php"
+			],
+			[
+				"cit",
+				"citas-de-taller.php"
+			],
+			[
+				"po",
+				"posventa.php"
 			],
 			[
 				"he",
 				"header.php"
 			],
 			[
-				"co",
-				"contacto.php"
+				"nu",
+				"nuestra-empresa.php"
+			],
+			[
+				"se",
+				"sedes.php"
+			],
+			[
+				"113",
+				"camion-1131.php"
+			],
+			[
+				"1063",
+				"camion-1063B.php"
+			],
+			[
+				"1050",
+				"camion-1050.php"
+			],
+			[
+				"1045",
+				"camion-1045.php"
+			],
+			[
+				"102",
+				"camion-1023.php"
+			],
+			[
+				"12",
+				"bus-12-metros.php"
+			],
+			[
+				"61",
+				"bus-6108.php"
+			],
+			[
+				"67",
+				"busesta-6738B.php"
+			],
+			[
+				"mini",
+				"mini-mula.php"
+			],
+			[
+				"stre",
+				"taxi-street.php"
+			],
+			[
+				"jac",
+				"taxi-star-jac.php"
+			],
+			[
+				"bril",
+				"automovil-brilliance-v5.php"
+			],
+			[
+				"b-cl",
+				"automovil-b-class.php"
+			],
+			[
+				"ref",
+				"automovil-refine.php"
+			],
+			[
+				"re",
+				"automovil-refine.php"
+			],
+			[
+				"b-c",
+				"automovil-b-cross.php"
+			],
+			[
+				"seda",
+				"automovil-veloce-sedan.php"
+			],
+			[
+				"hat",
+				"automovil-veloce-hatchback.php"
+			],
+			[
+				"smil",
+				"automovil-smile.php"
+			],
+			[
+				"her",
+				"header.php"
+			],
+			[
+				"men",
+				"js\\menu_top.js"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"10",
+				"camion-1023.php"
+			],
+			[
+				"sta",
+				"taxi-star-jac.php"
+			],
+			[
+				"gall",
+				"css\\themes\\autos\\galleria.classic.js"
+			],
+			[
+				"galleria",
+				"css\\themes\\autos\\galleria.classic.css"
+			],
+			[
+				"ha",
+				"automovil-veloce-hatchback.php"
+			],
+			[
+				"galler",
+				"css\\themes\\classic\\galleria.classic.js"
+			],
+			[
+				"cs",
+				"css\\styles.css"
+			],
+			[
+				"fo",
+				"footer.php"
 			],
 			[
 				"test",
@@ -502,18 +724,6 @@
 			[
 				"ci",
 				"citas-de-taller.php"
-			],
-			[
-				"po",
-				"posventa.php"
-			],
-			[
-				"se",
-				"sedes.php"
-			],
-			[
-				"nu",
-				"nuestra-empresa.php"
 			],
 			[
 				"tal",
@@ -560,20 +770,12 @@
 				"header.php"
 			],
 			[
-				"cit",
-				"citas-de-test-drive.php"
-			],
-			[
 				"con",
 				"contacto.php"
 			],
 			[
 				"citaste",
 				"citas-de-test-drive.php"
-			],
-			[
-				"in",
-				"index.php"
 			],
 			[
 				"na",
@@ -590,10 +792,6 @@
 			[
 				"n",
 				"nuestra-empresa.php"
-			],
-			[
-				"cs",
-				"css\\styles.css"
 			],
 			[
 				"pro",

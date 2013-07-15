@@ -98,5 +98,11 @@
 				'container': '#tooltips'
 			})
 		</script>
+		<script>
+			$(document).ready(function () {
+				$("ul.nav li").removeClass("active");
+				$("ul.nav li#contacto").addClass("active");
+			})
+		</script>
 	</body>
 </html>

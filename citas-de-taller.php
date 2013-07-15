@@ -72,5 +72,11 @@
 				'container': '#tooltips'
 			})
 		</script>
+		<script>
+			$(document).ready(function () {
+				$("ul.nav li").removeClass("active");
+				$("ul.nav li#citasdetaller").addClass("active");
+			})
+		</script>
 	</body>
 </html>

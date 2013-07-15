@@ -117,5 +117,11 @@
 				'container': '#tooltips'
 			})
 		</script>
+		<script>
+			$(document).ready(function () {
+				$("ul.nav li").removeClass("active");
+				$("ul.nav li#posventa").addClass("active");
+			})
+		</script>
 	</body>
 </html>

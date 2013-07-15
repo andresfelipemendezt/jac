@@ -102,6 +102,13 @@
 				'container': '#tooltips'
 			})
 		</script>
+        <script>
+        	
+			$(document).ready(function () {
+				$("ul.nav li").removeClass("active");
+				$("ul.nav li#sedes").addClass("active");
+			})
+		</script>
         
        
 	</body>

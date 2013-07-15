@@ -147,15 +147,15 @@
 								</ul>
 							</li>
 							<li class="divider-vertical"></li>
-							<li>
+							<li id="posventa">
 								<a href="posventa.php">POSTVENTA</a>
 							</li>
 							<li class="divider-vertical"></li>
-							<li>
+							<li id="citasdetaller">
 								<a href="citas-de-taller.php">CITAS DE TALLER</a>
 							</li>
 							<li class="divider-vertical"></li>
-							<li class="dropdown servicios">
+							<li class="dropdown servicios" id="servicios">
 								<a class="dropdown-toggle" data-toggle="dropdown" href="#">SERVICIOS</a>
 								<ul class="dropdown-menu servicios">
 								  	<li >
@@ -169,7 +169,7 @@
 							<li class="divider-vertical"></li>
 							<li>
 								
-							<li>
+							<li id="contacto">
 								<a href="contacto.php">CONTACTO</a>
 							</li>
 						</ul>
