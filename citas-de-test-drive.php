@@ -32,7 +32,8 @@
 			</div>
 			<div class="contenido">
 				<div class="row-fluid">
-					<div class="span8 offset2 text-left">
+					<img src="images/fotolia_57090.jpg" alt="" class="span4">
+					<div class="span8 text-left">
                     	<h3>Test Drive</h3>
 						<p> Almotores ofrece en sus concesionarios el servicio de 'TEST DRIVE' o prueba de vehículos para que puedas ver, oler, oír y sentir el carro de tus sueños. Envíanos tus datos y uno de nuestros ejecutivos comerciales se pondrán en contacto con usted lo más pronto posible. </p>
                             <div style="border:1px solid #eaeaea; border-radius:4px; padding:20px 10px;">
